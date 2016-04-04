@@ -17,7 +17,7 @@
 		o	Ability for host to manually check-in users invited to the event
 		o	Option for host to confirm attendance
 	•	Control Flow
-		o	When a user opens the app, they will be given a choice to enter as either a host or a guest to an event. Then, they will 					select the event (or if they are hosting, they will have the ability to create a new event or choose from events they have 			previously created). Then, the host can either activate the event check-in or view the list of people checked-in.
+		o	When a user opens the app, they will be given a choice to enter as either a host or a guest to an event. Then, they will select the event (or if they are hosting, they will have the ability to create a new event or choose from events they have 	previously created). Then, the host can either activate the event check-in or view the list of people checked-in.
 	•	Implementation
 		➢	Model
 			•	Event.swift, User.swift
