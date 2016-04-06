@@ -26,7 +26,7 @@
 
 ###	Implementation
 ####  Model
-  			* Event.swift, User.swift
+*		Event.swift, User.swift
 ####  View
   			* OpeningScreenView, EventSelectionView, CheckInView, UsersCheckedInTableView
 ####  Controller
