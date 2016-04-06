@@ -11,26 +11,16 @@
    host of the event to see who attended the event. 
 
 ###	Features
-  
-*		User profiles (Name and Picture)
-  
-*		Ability to create groups
-  
-*	  Host an event option with ability to invite individual users or a group
-  
-*	  Ability for a user to indicate intention of attending
-  
-*		Ability for host to generate a random word or specify a random word used for check-in
-  
-*		Ability for user to enter word and see confirmation of check-in or share their location as confirmation of attendance
-  
-*		List of user profiles attending/attended for host to see
-  
-*		Event will show under “events attended” for user profile
-  
-*		Ability for host to manually check-in users invited to the event
-  
-*		Option for host to confirm attendance
+  *		User profiles (Name and Picture)
+  *		Ability to create groups
+  *	  Host an event option with ability to invite individual users or a group
+  *	  Ability for a user to indicate intention of attending
+  *		Ability for host to generate a random word or specify a random word used for check-in
+  *		Ability for user to enter word and see confirmation of check-in or share their location as confirmation of attendance
+  *		List of user profiles attending/attended for host to see
+  *		Event will show under “events attended” for user profile
+  *		Ability for host to manually check-in users invited to the event
+  *		Option for host to confirm attendance
 
 ###	Control Flow
   
