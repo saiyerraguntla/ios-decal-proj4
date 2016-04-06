@@ -27,4 +27,4 @@
   		➢	View
   			•	OpeningScreenView, EventSelectionView, CheckInView, UsersCheckedInTableView
   		➢	Controller
-  			•	OpeningScreenViewController, EventSelectionViewController, CheckInViewController, 			*UsersCheckedInTableViewController
+  			•	OpeningScreenViewController, EventSelectionViewController, CheckInViewController, UsersCheckedInTableViewController
