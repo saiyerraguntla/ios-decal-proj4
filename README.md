@@ -28,8 +28,10 @@
 
 #### Model
  *	Event.swift, Users.swift
+ 
+#### View
+ *	OpeningScreenView, EventSelectionView, CheckInView, UsersCheckedInTableView
 
-####  View
-  		- OpeningScreenView, EventSelectionView, CheckInView, UsersCheckedInTableView
-####  Controller
-  		- OpeningScreenViewController, EventSelectionViewController, CheckInViewController, UsersCheckedInTableViewController
+#### Controller
+ *	OpeningScreenViewController, EventSelectionViewController, CheckInViewController, UsersCheckedInTableViewController
+
