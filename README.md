@@ -1,11 +1,14 @@
 # ios-decal-proj4
 
 ## Check-in
+
 ### Authors
  *	Sai Yerraguntla
+
 ### Purpose 
  *	Check-in is an app that allows users to check-in to an event and allows the 
    host of the event to see who attended the event. 
+
 ###	Features
   *		User profiles (Name and Picture)
   *		Ability to create groups
